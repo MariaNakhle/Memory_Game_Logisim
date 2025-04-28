@@ -44,9 +44,10 @@ The project includes a user-friendly interface with optional sound effects and L
 
 ## 📸 Screenshots
 (Add screenshots here, for example:)
-![Game Board](images/game_board.png)
-![Win Screen](images/win_screen.png)
-![Lose Screen](images/lose_screen.png)
+![Game Board](assert/game_board.png)
+![Win Screen](assert/win_screen.png)
+![Lose Screen](assert/lose_screen_1.png)
+![Lose Screen](assert/lose_screen_2.png)
 
 ## ▶️ How to Run
 - Open the project `.circ` file with **Logisim Evolution**.

@@ -72,8 +72,9 @@ The project includes a user-friendly interface with optional sound effects and L
 - **Logisim Evolution** (for simulation and digital design)
 
 ## 👩‍💻 Authors
-- Tatiana Abu Shakra - 212581037
-- Maria Nahla - 207716762
+- Maria Nakhle
+- Tatiana Abu Shakra 
+
 
 Project supervised by Mr. Ofer Tzur.
 

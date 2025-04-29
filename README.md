@@ -52,11 +52,11 @@ The project includes a user-friendly interface with optional sound effects and L
 
 ![Win Screen:](assert/win_screen.png)
 
-- **Lose Screen_Easy_Mode:**
+- **Lose Screen_Hard_Mode_time_runs_out:**
 
 ![Lose Screen_Easy_Mode:](assert/lose_screen_1.png)
 
-- **Lose Screen_Hard_Mode:**
+- **Lose Screen_Hard_Mode_lives_are_lost:**
 
 ![Lose Screen_Hard_Mode:](assert/lose_screen_2.png)
 

@@ -43,7 +43,7 @@ The project includes a user-friendly interface with optional sound effects and L
   Shows time remaining, lives left, and game status.
 
 ## 📸 Screenshots
-(Add screenshots here, for example:)
+
 
 ![Game Board](assert/game_board.png)
 

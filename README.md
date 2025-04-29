@@ -44,9 +44,16 @@ The project includes a user-friendly interface with optional sound effects and L
 
 ## 📸 Screenshots
 
+- **Game Board:** 
 ![Game Board:](assert/game_board.png)
+
+- **Win Screen:** 
 ![Win Screen:](assert/win_screen.png)
+
+- **Lose Screen_Easy_Mode:**
 ![Lose Screen_Easy_Mode:](assert/lose_screen_1.png)
+
+- **Lose Screen_Hard_Mode:**
 ![Lose Screen_Hard_Mode:](assert/lose_screen_2.png)
 
 ## ▶️ How to Run

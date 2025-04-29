@@ -48,15 +48,15 @@ The project includes a user-friendly interface with optional sound effects and L
 
 ![Game Board:](assert/game_board.png)
 
-- **Win Screen:** 
+- **Win Screen_Easy_Mode:** 
 
 ![Win Screen:](assert/win_screen.png)
 
-- **Lose Screen_Hard_Mode_time_runs_out:**
+- **Lose Screen_Hard_Mode_lives_are_lost:**
 
 ![Lose Screen_Easy_Mode:](assert/lose_screen_1.png)
 
-- **Lose Screen_Hard_Mode_lives_are_lost:**
+- **Lose Screen_Hard_Mode_time_runs_out:**
 
 ![Lose Screen_Hard_Mode:](assert/lose_screen_2.png)
 
